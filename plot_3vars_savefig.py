@@ -19,9 +19,9 @@ Assumptions: developed and tested using Python version 3.8.8 on macOS 11.6
 import pandas as pd
 import matplotlib.pyplot as plt
 
-plot_fname = "myplot.png"
+plot_fname = "MFLOPS.png"
 
-fname = "sample_data_3vars.csv"
+fname = "./data/csv/Perlmutter Sum Data - MFLOPS.csv"
 df = pd.read_csv(fname, comment="#")
 print(df)
 
@@ -53,7 +53,7 @@ plt.plot(code3_time, "g-^")
 #plt.yscale("log")
 
 plt.xlabel("Problem Sizes")
-plt.ylabel("runtime")
+plt.ylabel("MFLOPS/s")
 
 varNames = [var_names[1], var_names[2], var_names[3]]
 plt.legend(varNames, loc="best")
