@@ -1,0 +1,6 @@
+/global/homes/h/hoolsean/sum/pmut_sum/build/CMakeFiles/rebuild_cache.dir
+/global/homes/h/hoolsean/sum/pmut_sum/build/CMakeFiles/edit_cache.dir
+/global/homes/h/hoolsean/sum/pmut_sum/build/CMakeFiles/sum_indirect.dir
+/global/homes/h/hoolsean/sum/pmut_sum/build/CMakeFiles/sum_vector.dir
+/global/homes/h/hoolsean/sum/pmut_sum/build/CMakeFiles/sum_direct.dir
+/global/homes/h/hoolsean/sum/pmut_sum/build/CMakeFiles/benchmark.dir
